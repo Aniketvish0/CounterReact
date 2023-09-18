@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+body {
+  background-color: #252525;
+}
+.main-container {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  color: aliceblue;
+  text-align: center;
+}
+h1 {
+  font-size: 40px;
+  margin: 10px;
+}
+button {
+  background-color: #252525;
+  font-size: 15px;
+  color: #fff;
+  padding: 5px;
+  border-radius: 5px;
+  margin: 1vw;
+  padding: 2x 5px;
+}
